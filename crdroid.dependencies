@@ -1,0 +1,20 @@
+ [
+ {
+  "Remote": "github",
+  "Repository": "jomadeto/vendor_xiaomi_chime",
+  "Target_path": "vendor/xiaomi/chime",
+  "Branch": "16.0"
+ },
+ {
+  "Remote": "github",
+  "Repository": "crdroidandroid/android_hardware_xiaomi",
+  "Target_path": "hardware/xiaomi",
+  "Branch": "16.0"
+ },
+ {
+  "Remote": "github",
+  "Repository": "jomadeto/kernel_xiaomi_chime",
+  "Target_path": "kernel/xiaomi/chime",
+  "Branch": "16.0"
+ } 
+]
