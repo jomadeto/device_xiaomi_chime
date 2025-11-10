@@ -13,7 +13,7 @@
  },
  {
   "Remote": "github",
-  "Repository": "jomadeto/kernel_xiaomi_chime",
+  "Repository": "jomadeto/valeryn_xiaomi_sm6115",
   "Target_path": "kernel/xiaomi/chime",
   "Branch": "16.0"
  } 
